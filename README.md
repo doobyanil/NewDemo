@@ -1,4 +1,2 @@
 # NewDemo
-demo
-hello world 
-hello world second
+Hello World / a classic start to any new project
